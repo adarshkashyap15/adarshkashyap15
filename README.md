@@ -2,8 +2,6 @@
 
 🖥️ MATLAB & Python Enthusiast | Fluid Dynamics Engineer 
 
-📚 M.Tech in Mechanical Engineering 
-
 💡 Leveraging the power of code to unlock the secrets of fluid behavior and heat exchange.
 
 🔧 Constantly exploring, learning, and sharing knowledge in the world of numerical simulations.
