@@ -18,5 +18,5 @@
 
 📖 Check out my repositories below, and feel free to reach out for collaborations or discussions!
 
-[![GitHub followers](https://img.shields.io/github/followers/yourusername?label=Follow&style=social)](https://github.com/yourusername)
+[![GitHub followers](https://img.shields.io/github/followers/adarshkashyap15?label=Follow&style=social)](https://github.com/adarshkashyap15)
 
