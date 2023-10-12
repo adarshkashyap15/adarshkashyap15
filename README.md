@@ -1,8 +1,8 @@
 🔬 Enthusiastic about Computational Fluid Dynamics and Numerical Heat Transfer
 
-🖥️ MATLAB & Python Enthusiast | Fluid Dynamics Engineer | Code Magician
+🖥️ MATLAB & Python Enthusiast | Fluid Dynamics Engineer 
 
-📚 M.Tech in Mechanical Engineering | Fluid Dynamics Aficionado 
+📚 M.Tech in Mechanical Engineering 
 
 💡 Leveraging the power of code to unlock the secrets of fluid behavior and heat exchange.
 
