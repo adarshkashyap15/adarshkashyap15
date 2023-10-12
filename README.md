@@ -2,17 +2,11 @@
 
 🖥️ MATLAB & Python Enthusiast | Fluid Dynamics Engineer | Code Magician
 
-📚 M.Tech in Mechanical Engineering | Fluid Dynamics Aficionado
-
-🌊 Passionate about simulating complex flow phenomena and optimizing heat transfer solutions. 
+📚 M.Tech in Mechanical Engineering | Fluid Dynamics Aficionado 
 
 💡 Leveraging the power of code to unlock the secrets of fluid behavior and heat exchange.
 
-🌟 Open-source advocate and contributor | GitHub is my lab notebook.
-
 🔧 Constantly exploring, learning, and sharing knowledge in the world of numerical simulations.
-
-💬 Let's collaborate on solving fluid dynamics challenges and heat transfer puzzles!
 
 🌐 My emailID | 📫 adarshkashyap15@gmail.com
 
